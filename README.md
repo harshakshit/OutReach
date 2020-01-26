@@ -30,4 +30,4 @@ Core People -
 13. Print -
 14. A/V -
 15. Logistic Leads -
-16. Contet Leads -
+16. Content Leads -
